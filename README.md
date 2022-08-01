@@ -131,8 +131,8 @@ Please read [contributing.md](contributing.md) for details on our code of conduc
 
 ## Authors
 
-<a href="https://github.com/DSCKGEC/learn-machine-learn/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DSCKGEC/learn-machine-learn" />
+<a href="https://github.com/neelshah2409/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=neelshah2409/Data-Science-Crate" />
 </a>
 
 ## License
