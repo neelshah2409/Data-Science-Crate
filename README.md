@@ -1,10 +1,10 @@
 # Data-Science-Crate
 
 
-[![Contributors](https://img.shields.io/github/contributors/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/learn-machine-learn.svg)](https://github.com/dsckgec/learn-machine-learn/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/neelshah2409)](https://github.com/neelshah2409/pulls)
+[![Contributors](https://img.shields.io/github/contributors/neelshah2409/Data-Science-Crate.svg)](https://github.com/neelshah2409/Data-Science-Crate/graphs/contributors) [![Forks](https://img.shields.io/github/forks/neelshah2409/Data-Science-Crate.svg)](https://github.com/neelshah2409/Data-Science-Crate/network/members) [![Issues](https://img.shields.io/github/issues/neelshah2409/Data-Science-Crate.svg)](https://github.com/neelshah2409/Data-Science-Crate/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/neelshah2409/Data-Science-Crate)](https://github.com/neelshah2409/Data-Science-Crate/pulls)
 
 
-A one-stop repository for new-comers in Machine Learning and A.I.
+A one-stop repository for new-comers in Data-Science.
 
 ## Contents
 
